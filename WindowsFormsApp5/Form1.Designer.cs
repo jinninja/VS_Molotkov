@@ -44,9 +44,10 @@
             // BiletB
             // 
             this.BiletB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.BiletB.Location = new System.Drawing.Point(52, 12);
+            this.BiletB.Location = new System.Drawing.Point(13, 17);
+            this.BiletB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.BiletB.Name = "BiletB";
-            this.BiletB.Size = new System.Drawing.Size(146, 48);
+            this.BiletB.Size = new System.Drawing.Size(219, 74);
             this.BiletB.TabIndex = 0;
             this.BiletB.Text = "Билет";
             this.BiletB.UseVisualStyleBackColor = false;
@@ -55,9 +56,10 @@
             // BrigB
             // 
             this.BrigB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.BrigB.Location = new System.Drawing.Point(52, 66);
+            this.BrigB.Location = new System.Drawing.Point(131, 101);
+            this.BrigB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.BrigB.Name = "BrigB";
-            this.BrigB.Size = new System.Drawing.Size(146, 48);
+            this.BrigB.Size = new System.Drawing.Size(219, 74);
             this.BrigB.TabIndex = 2;
             this.BrigB.Text = "Бригады";
             this.BrigB.UseVisualStyleBackColor = false;
@@ -66,9 +68,10 @@
             // DoljB
             // 
             this.DoljB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.DoljB.Location = new System.Drawing.Point(52, 120);
+            this.DoljB.Location = new System.Drawing.Point(78, 185);
+            this.DoljB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.DoljB.Name = "DoljB";
-            this.DoljB.Size = new System.Drawing.Size(146, 48);
+            this.DoljB.Size = new System.Drawing.Size(219, 74);
             this.DoljB.TabIndex = 3;
             this.DoljB.Text = "Должности";
             this.DoljB.UseVisualStyleBackColor = false;
@@ -77,9 +80,10 @@
             // MarshB
             // 
             this.MarshB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.MarshB.Location = new System.Drawing.Point(52, 174);
+            this.MarshB.Location = new System.Drawing.Point(78, 268);
+            this.MarshB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MarshB.Name = "MarshB";
-            this.MarshB.Size = new System.Drawing.Size(146, 48);
+            this.MarshB.Size = new System.Drawing.Size(219, 74);
             this.MarshB.TabIndex = 4;
             this.MarshB.Text = "Маршрут";
             this.MarshB.UseVisualStyleBackColor = false;
@@ -88,9 +92,10 @@
             // ModelSB
             // 
             this.ModelSB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ModelSB.Location = new System.Drawing.Point(52, 228);
+            this.ModelSB.Location = new System.Drawing.Point(78, 351);
+            this.ModelSB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ModelSB.Name = "ModelSB";
-            this.ModelSB.Size = new System.Drawing.Size(146, 48);
+            this.ModelSB.Size = new System.Drawing.Size(219, 74);
             this.ModelSB.TabIndex = 5;
             this.ModelSB.Text = "Модель Самолета";
             this.ModelSB.UseVisualStyleBackColor = false;
@@ -99,9 +104,10 @@
             // PersonalB
             // 
             this.PersonalB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.PersonalB.Location = new System.Drawing.Point(52, 283);
+            this.PersonalB.Location = new System.Drawing.Point(78, 435);
+            this.PersonalB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.PersonalB.Name = "PersonalB";
-            this.PersonalB.Size = new System.Drawing.Size(146, 48);
+            this.PersonalB.Size = new System.Drawing.Size(219, 74);
             this.PersonalB.TabIndex = 6;
             this.PersonalB.Text = "Персонал";
             this.PersonalB.UseVisualStyleBackColor = false;
@@ -110,9 +116,10 @@
             // TechObsB
             // 
             this.TechObsB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.TechObsB.Location = new System.Drawing.Point(52, 498);
+            this.TechObsB.Location = new System.Drawing.Point(78, 766);
+            this.TechObsB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TechObsB.Name = "TechObsB";
-            this.TechObsB.Size = new System.Drawing.Size(146, 48);
+            this.TechObsB.Size = new System.Drawing.Size(219, 74);
             this.TechObsB.TabIndex = 7;
             this.TechObsB.Text = "Тех.Обслуживание";
             this.TechObsB.UseVisualStyleBackColor = false;
@@ -121,9 +128,10 @@
             // RaspB
             // 
             this.RaspB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.RaspB.Location = new System.Drawing.Point(52, 337);
+            this.RaspB.Location = new System.Drawing.Point(78, 518);
+            this.RaspB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.RaspB.Name = "RaspB";
-            this.RaspB.Size = new System.Drawing.Size(146, 48);
+            this.RaspB.Size = new System.Drawing.Size(219, 74);
             this.RaspB.TabIndex = 8;
             this.RaspB.Text = "Расписания";
             this.RaspB.UseVisualStyleBackColor = false;
@@ -132,9 +140,10 @@
             // ReisiB
             // 
             this.ReisiB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ReisiB.Location = new System.Drawing.Point(52, 391);
+            this.ReisiB.Location = new System.Drawing.Point(78, 602);
+            this.ReisiB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ReisiB.Name = "ReisiB";
-            this.ReisiB.Size = new System.Drawing.Size(146, 48);
+            this.ReisiB.Size = new System.Drawing.Size(219, 74);
             this.ReisiB.TabIndex = 9;
             this.ReisiB.Text = "Рейсы";
             this.ReisiB.UseVisualStyleBackColor = false;
@@ -143,9 +152,10 @@
             // PlanesB
             // 
             this.PlanesB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.PlanesB.Location = new System.Drawing.Point(52, 445);
+            this.PlanesB.Location = new System.Drawing.Point(78, 685);
+            this.PlanesB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.PlanesB.Name = "PlanesB";
-            this.PlanesB.Size = new System.Drawing.Size(146, 48);
+            this.PlanesB.Size = new System.Drawing.Size(219, 74);
             this.PlanesB.TabIndex = 10;
             this.PlanesB.Text = "Самолеты";
             this.PlanesB.UseVisualStyleBackColor = false;
@@ -154,9 +164,10 @@
             // typeB
             // 
             this.typeB.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.typeB.Location = new System.Drawing.Point(52, 552);
+            this.typeB.Location = new System.Drawing.Point(78, 849);
+            this.typeB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.typeB.Name = "typeB";
-            this.typeB.Size = new System.Drawing.Size(146, 48);
+            this.typeB.Size = new System.Drawing.Size(219, 74);
             this.typeB.TabIndex = 11;
             this.typeB.Text = "Тип";
             this.typeB.UseVisualStyleBackColor = false;
@@ -164,12 +175,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImage = global::WindowsFormsApp5.Properties.Resources.abstrakciya_cvet_ugol_fon_1087;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(242, 615);
+            this.ClientSize = new System.Drawing.Size(363, 946);
             this.Controls.Add(this.typeB);
             this.Controls.Add(this.PlanesB);
             this.Controls.Add(this.ReisiB);
@@ -182,6 +193,7 @@
             this.Controls.Add(this.BrigB);
             this.Controls.Add(this.BiletB);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
